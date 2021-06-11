@@ -1,0 +1,10 @@
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\bin\Debug\PhamHaiAnh_2018600641.exe.config
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\bin\Debug\PhamHaiAnh_2018600641.exe
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\bin\Debug\PhamHaiAnh_2018600641.pdb
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\obj\Debug\PhamHaiAnh_2018600641.csprojAssemblyReference.cache
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\obj\Debug\PhamHaiAnh_2018600641.Form1.resources
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\obj\Debug\PhamHaiAnh_2018600641.Properties.Resources.resources
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\obj\Debug\PhamHaiAnh_2018600641.csproj.GenerateResource.cache
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\obj\Debug\PhamHaiAnh_2018600641.csproj.CoreCompileInputs.cache
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\obj\Debug\PhamHaiAnh_2018600641.exe
+C:\Users\haian\Desktop\PhamHaiAnh_2018600641\PhamHaiAnh_2018600641\obj\Debug\PhamHaiAnh_2018600641.pdb

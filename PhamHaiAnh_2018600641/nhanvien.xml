@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<congty>
+  <nhanvien>
+    <manv>nv01</manv>
+    <hoten>Pham Hai Anh</hoten>
+    <donvi dienthoai="0964026317">
+      <tendonvi>Dieu Hanh</tendonvi>
+    </donvi>
+  </nhanvien>
+  <nhanvien>
+    <manv>b</manv>
+    <hoten>a</hoten>
+    <donvi dienthoai="a">
+      <tendonvi>b</tendonvi>
+    </donvi>
+  </nhanvien>
+  <nhanvien>
+    <manv>a</manv>
+    <hoten>a</hoten>
+    <donvi dienthoai="a">
+      <tendonvi>a</tendonvi>
+    </donvi>
+  </nhanvien>
+</congty>
